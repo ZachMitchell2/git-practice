@@ -1,2 +1,3 @@
 Name: Zach Mitchell
 Favorite Subject: Math
+Learning Git is fun!
